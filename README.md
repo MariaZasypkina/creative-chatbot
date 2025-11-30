@@ -25,9 +25,10 @@ The project is created as a standalone repo so it can be used as a portfolio exa
 
 1. Clone the repo
 2. Install dependencies  
-```bash
+
 npm install
 npm run dev
+
 http://localhost:5173
 
 ## Project Structure
