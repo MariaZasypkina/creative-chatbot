@@ -2,21 +2,20 @@
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background: #c7b3e5;   /* lavender */
+  background: #c7b3e5; /* lavender */
   border: 2px solid #c7e2c2; /* sage */
   border-radius: 16px;
   padding: 14px 16px;
   font-size: 20px;
   cursor: pointer;
   color: #3a3a3a;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   transition: all 0.2s ease;
 }
 
 .chatbot-button:hover {
   transform: translateY(-3px);
 }
-
 
 .chatbot-window {
   position: fixed;
@@ -55,7 +54,6 @@
 .chatbot-header button:hover {
   opacity: 1;
 }
-
 
 .chatbot-messages {
   flex: 1;
