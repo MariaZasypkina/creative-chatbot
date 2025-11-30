@@ -132,3 +132,19 @@
   display: flex;
   justify-content: flex-start;
 }
+.chat-option-button {
+  background: #c7e2c2;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 12px;
+  margin: 6px 0;
+  font-size: 14px;
+  color: #29252f;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.chat-option-button:hover {
+  background: #b9d8b4;
+  transform: translateY(-2px);
+}
