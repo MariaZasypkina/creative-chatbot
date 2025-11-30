@@ -21,6 +21,9 @@ The project is created as a standalone repo so it can be used as a portfolio exa
 - JavaScript  
 - Custom CSS (no UI libraries)
 
+<img width="353" height="461" alt="Screenshot 2025-11-29 at 9 35 57 PM" src="https://github.com/user-attachments/assets/066066d0-3925-49b4-80a6-f9d1e1a22426" />  <img width="351" height="445" alt="Screenshot 2025-11-29 at 9 36 17 PM" src="https://github.com/user-attachments/assets/38d7e81c-8e1e-4321-b7a5-ca1733fba687" /> <img width="347" height="450" alt="Screenshot 2025-11-29 at 9 36 28 PM" src="https://github.com/user-attachments/assets/564d34c8-ba80-43d5-956b-ea2e5a24e38b" />
+
+
 ## Local Setup
 
 1. Clone the repo
