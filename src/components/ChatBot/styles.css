@@ -73,11 +73,14 @@
 }
 
 .chat-bubble {
-  padding: 8px 12px;
+  padding: 10px 14px;
   border-radius: 12px;
   margin-bottom: 10px;
   max-width: 80%;
+  width: fit-content;
+  box-shadow: 0 2px 6px rgba(62, 75, 60, 0.12);
 }
+
 .chat-input {
   padding: 12px;
   display: flex;
@@ -111,11 +114,21 @@
 }
 .chat-message.assistant .chat-bubble {
   background: #eee9f7; /* нежный lavender */
+  border: 0.6px solid #c7b3e5;
   color: #3a3a3a;
 }
 
 .chat-message.user .chat-bubble {
   background: #fff;
-  border: 1px solid #c7e2c2;
+  border: 0.6px solid #c7e2c2;
   color: #3a3a3a;
+}
+.chat-message.user {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.chat-message.assistant {
+  display: flex;
+  justify-content: flex-start;
 }
