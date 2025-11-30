@@ -19,6 +19,6 @@ export default function ChatInput({ onSend }) {
         onChange={(e) => setValue(e.target.value)}
       />
       <button type="submit">Send</button>
-    </form>
+    </form>//
   );
 }
